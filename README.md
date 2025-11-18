@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="et">
 <head>
     <meta charset="UTF-8">
@@ -1417,3 +1417,4 @@
     </script>
 </body>
 </html>
+
